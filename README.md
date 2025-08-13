@@ -51,19 +51,6 @@ requirement.txt: List of dependencies required for the project. Ensures that all
 streamlitapp.py: Script for running the Streamlit web application interface. Provides a web-based interface for users to interact with the system.
 data/: Directory containing dataset files. Organized storage of all dataset files used in the project.
 report/: Folder containing the HTML file required for the web interface, project reports and documentation. Maintains all relevant documentation and reports for the project.
-Usage Instructions
-Clone the repository:
-git clone https://github.com/virajbhutada/Music-Recommendation-System.git
-Navigate to the project directory:
-cd Music-Recommendation-System
-Install dependencies:
-pip install -r requirements.txt
-Run the application:
-python app.py
-Running the Streamlit app:
-streamlit run streamlitapp.py
-Contribution Guidelines
-Make a Pull Request Report an Issue Join the Discussion Check Code Style Clone Repository Push Changes
 
 
 
